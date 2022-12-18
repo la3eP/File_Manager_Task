@@ -1,0 +1,21 @@
+{
+  "name": "file_manager_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/la3eP/file_manager_task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/la3eP/file_manager_task/issues"
+  },
+  "homepage": "https://github.com/la3eP/file_manager_task#readme"
+}
